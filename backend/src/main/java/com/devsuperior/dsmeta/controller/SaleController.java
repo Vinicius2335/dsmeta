@@ -13,10 +13,8 @@ import org.springframework.web.bind.annotation.*;
 public class SaleController {
     @Autowired
     private SaleService service;
-
     @Autowired
     private SmsService smsService;
-
     @GetMapping
     public Page<Sale> findSales(
             @RequestParam(value = "minDate", defaultValue = "") String minDate,
