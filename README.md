@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="./.github/screenshot.png" alt="Screenshot doctorcare">
+<img src="./screenshot2.png" alt="Screenshot DSMeta">
 
 <br>
 
